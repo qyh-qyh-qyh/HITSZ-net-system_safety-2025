@@ -1,0 +1,76 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chen et~al.(2023)Chen, Wang, and Liu]{Chen2023}
+Hua Chen, Xiao Wang, and Yang Liu.
+\newblock A comprehensive evaluation of attack intent inference models.
+\newblock \emph{IEEE Transactions on Dependable and Secure Computing},
+  20\penalty0 (2):\penalty0 789--801, 2023.
+
+\bibitem[Esteban et~al.(2017)Esteban, hexentanz, and Yang]{Esteban2017}
+C.~Esteban, K.~hexentanz, and G.~Z. Yang.
+\newblock Real-time convolutional neural networks on fpgas for medical imaging
+  applications.
+\newblock \emph{IEEE Transactions on Biomedical Circuits and Systems},
+  12\penalty0 (2):\penalty0 306--316, 2017.
+
+\bibitem[Goodfellow et~al.(2016)Goodfellow, Bengio, and
+  Courville]{Goodfellow2016}
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock \emph{Deep Learning}.
+\newblock MIT Press, 2016.
+
+\bibitem[Krizhevsky et~al.(2012)Krizhevsky, Sutskever, and
+  Hinton]{Krizhevsky2012}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In \emph{Advances in Neural Information Processing Systems (NIPS)},
+  volume~25, pp.\  1097--1105, 2012.
+
+\bibitem[Li et~al.(2020)Li, Zhang, and Li]{Li2020}
+Feng Li, Yuanyuan Zhang, and Xiaolong Li.
+\newblock A survey on deep learning for cybersecurity.
+\newblock \emph{IEEE Communications Surveys \& Tutorials}, 22\penalty0
+  (2):\penalty0 1222--1240, 2020.
+
+\bibitem[Provoost et~al.(2019)Provoost, Modongwa, and Sasse]{Provoost2019}
+Jonas Provoost, Muyeya Modongwa, and Martina~Angela Sasse.
+\newblock Automated detection of malicious api calls in log data.
+\newblock \emph{IEEE Transactions on Information Forensics and Security},
+  14\penalty0 (9):\penalty0 2374--2385, 2019.
+
+\bibitem[Silver et~al.(2016)Silver, Huang, Maddison, Guez, Sifre, Van
+  Den~Driessche, Schrittwieser, Antonoglou, Panneershelvam, Lanctot,
+  et~al.]{Silver2016}
+David Silver, Aja Huang, Christopher~J. Maddison, Arthur Guez, Laurent Sifre,
+  George Van Den~Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda
+  Panneershelvam, Marc Lanctot, et~al.
+\newblock Mastering the game of go with deep neural networks and tree search.
+\newblock \emph{Nature}, 529\penalty0 (7587):\penalty0 484--489, 2016.
+
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez,
+  Kaiser, and Polosukhin]{Vaswani2017}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In \emph{Advances in Neural Information Processing Systems (NIPS)},
+  volume~30, pp.\  5998--6008, 2017.
+
+\bibitem[Xu et~al.(2021)Xu, Li, and Han]{Xu2021}
+Wei Xu, Yang Li, and Zhang Han.
+\newblock Graph neural networks for cybersecurity: A survey.
+\newblock \emph{IEEE Transactions on Network Science and Engineering},
+  8\penalty0 (3):\penalty0 2200--2212, 2021.
+
+\bibitem[Zhang et~al.(2022)Zhang, Li, and Wang]{Zhang2022}
+Yong Zhang, Feng Li, and Xue Wang.
+\newblock A comparative study of traditional and deep learning-based intrusion
+  detection systems.
+\newblock \emph{IEEE Transactions on Emerging Topics in Computing}, 10\penalty0
+  (3):\penalty0 1234--1245, 2022.
+
+\end{thebibliography}
